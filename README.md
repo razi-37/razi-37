@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Muhammad Rizwan 👋
 
-<!--
-**razi-37/razi-37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduating from FAST | Aspiring software developer  
+💻 Currently learning C++ and building websites and games  
+🌱 Open to internships and collaboration
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/rana-rizwan-qamar-326107436/)  
+[Email me](mailto:i.am.razi297@gmail.com)
